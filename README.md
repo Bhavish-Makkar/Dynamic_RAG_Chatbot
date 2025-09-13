@@ -95,10 +95,7 @@ Frontend will run at: `http://localhost:8501`
 
 
 
-## 📂 Repository
-👉 [GitHub Link](https://github.com/your-username/dynamic-rag-chatbot)
 
----
 
 ## 🙌 Acknowledgements
 - [LangChain](https://www.langchain.com/)
