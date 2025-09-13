@@ -1,0 +1,24 @@
+uvicorn[standard]
+streamlit
+python-dotenv
+python-multipart
+requests
+fastapi
+# LangChain and related
+langchain
+langchain-community
+
+# Vector database and embeddings
+chromadb
+sentence-transformers
+
+# PDF processing
+pypdf
+
+# LLM API
+groq
+
+# Additional utilities
+tiktoken
+pandas
+numpy
